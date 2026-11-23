@@ -1,6 +1,7 @@
 # MG7
 ## Devlog
 TreeofBirdsScript Code:
+
 public class TreeOfBirds : MonoBehaviour
 {
     [SerializeField] private GameObject[] _sparrows;
