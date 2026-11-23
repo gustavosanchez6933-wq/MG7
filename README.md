@@ -1,6 +1,6 @@
 # MG7
 ## Devlog
-Write your Devlog here. :3
+e
 
 ## Open-Source Assets
 - [Forest Nature Pack](https://kaylousberg.itch.io/kaykit-forest) - environment 3D models
